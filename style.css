@@ -1,0 +1,13 @@
+
+td, tr {
+  border:none;
+}
+
+.datums {
+  width:25px;
+  height:25px;
+  background-color:lightgrey;
+  border:none;
+  color:grey;
+  font-family:"Selawik Semibold";
+}
